@@ -5,7 +5,7 @@
 
 <p align="left"> <img  align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="ahasainul" /> </p>
 
-- 🔭 I’m currently study on ****
+- 🔭 I’m currently studyin on **Master degree in software engineering**
 
 - 🌱 I’m currently learning **Next js backend**
 
@@ -20,6 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/younes.kezadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnan23asif" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/younes-kezadri-632811281/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
