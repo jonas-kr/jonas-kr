@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Remote Jobs**
 
-- 💬 Ask me about **Any Think**
+- 💬 Ask me about **Any Thing**
 
 - 📫 How to reach me **yakerdev@gmail.com**
 
