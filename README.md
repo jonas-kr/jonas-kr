@@ -15,10 +15,10 @@ Web apps, automation scripts, APIs, mobile apps — if it's code, I’m probably
 React • Next.js • TypeScript • Tailwind CSS • Framer Motion  
 
 **Backend:**  
-Node.js • Express • MongoDB • REST APIs • TensorFlow.js  
+Node.js • Express • MongoDB • REST APIs • Scrum  • MySql • Postgresql    
 
 **Mobile:**  
-Flutter • Dart  
+React native 
 
 **Other Skills:**  
 Docker • Web Scraping • Git • UI/UX • Figma
@@ -27,13 +27,13 @@ Docker • Web Scraping • Git • UI/UX • Figma
 
 ### 🛠 Projects & Experiments
 
-I’ve built over **100+ projects publicly**, and... let’s just say there are **a lot more privately** 👀  
+I’ve built over **10+ projects**, and... let’s just say there are **a lot more privately** 👀  
 
 Some of my favorites include:
 
 ✨ AI-powered job recommender  
 🛒 Full MERN eCommerce App  
-🎥 Video players (Web, QML, Kotlin)  
+🎥 Video players (Web, QML)  
 📦 Yalidine API automation tools  
 💪 AI-Generated Training Plans  
 
@@ -59,18 +59,16 @@ I ship fast, break things, fix them, and learn constantly.
 
 ### ⚡ Fun Facts
 
-- 🐱 I’ve got kids who love stealing my phone to play games (so I'm locking it down 😅)  
 - 🎮 Fan of gaming & tech optimizations  
 - 🍵 Not a coffee or tea person  
-- 📱 Redmi Note user but Android is my playground  
 - ⚙️ I love building tools that automate boring tasks
 
 ---
 
 ### 🌍 Find me online
 
-💼 Portfolio: (coming soon)  
-📧 Email: *(DM me first 😄)*  
+💼 Portfolio: https://jonaskr.vercel.app/
+📧 Email: *yakerdev@gmail.com*  
 
 If you're into building cool things, automating life, or pushing code at ungodly hours —  
 **we’ll get along perfectly.**
