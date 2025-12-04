@@ -1,37 +1,80 @@
+<img src="https://emoji.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40"/>
 
-<h1 align="center">Hi 👋, I'm Younes Kezadri</h1>
-<h3 align="center">A passionate full stack developer from algeria</h3>
+# Hey there! I'm Jonas 👋
 
+I'm a **Full-Stack Developer** based in **Algeria**, currently obsessed with building **AI-powered web apps** and designing smooth, responsive user experiences.
 
-<p align="left"> <img  align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="ahasainul" /> </p>
+If I imagine something — I *build it*.  
+Web apps, automation scripts, APIs, mobile apps — if it's code, I’m probably tinkering with it.
 
-- 🔭 I’m currently studyin on **Master degree in software engineering**
+---
 
-- 🌱 I’m currently learning **Next js backend**
+### 🚀 Tech Stack
 
-- 👯 I’m looking to collaborate on **Remote Jobs**
+**Frontend:**  
+React • Next.js • TypeScript • Tailwind CSS • Framer Motion  
 
-- 💬 Ask me about **Any Thing**
+**Backend:**  
+Node.js • Express • MongoDB • REST APIs • TensorFlow.js  
 
-- 📫 How to reach me **yakerdev@gmail.com**
+**Mobile:**  
+Flutter • Dart  
 
-- ⚡ Fun fact **I Think i am funny**
+**Other Skills:**  
+Docker • Web Scraping • Git • UI/UX • Figma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/younes.kezadri" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnan23asif" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/younes-kezadri-632811281/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" />
-</a>
+---
 
-</p>
+### 🛠 Projects & Experiments
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I’ve built over **100+ projects publicly**, and... let’s just say there are **a lot more privately** 👀  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonas-kr&show_icons=true&locale=en&layout=compact" alt="jonas-kr" /></p>
+Some of my favorites include:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonas-kr&show_icons=true&locale=en" alt="jonas-kr" /></p>
+✨ AI-powered job recommender  
+🛒 Full MERN eCommerce App  
+🎥 Video players (Web, QML, Kotlin)  
+📦 Yalidine API automation tools  
+💪 AI-Generated Training Plans  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-kr&" alt="jonas-kr" /></p>
+I ship fast, break things, fix them, and learn constantly.
+
+---
+
+### 📚 Currently Working On
+
+- 🧠 AI-powered web assistant for Algerian small businesses  
+- 💻 MERN + TensorFlow.js fitness coaching platform  
+- 📦 Automation tools for delivery services (Yalidine, etc.)
+
+---
+
+### 🎯 Goals
+
+- Build tools that feel **smart**, **useful**, and **fun**.  
+- Release more open-source SaaS-ready components.  
+- Connect with creators, engineers, and builders worldwide.
+
+---
+
+### ⚡ Fun Facts
+
+- 🐱 I’ve got kids who love stealing my phone to play games (so I'm locking it down 😅)  
+- 🎮 Fan of gaming & tech optimizations  
+- 🍵 Not a coffee or tea person  
+- 📱 Redmi Note user but Android is my playground  
+- ⚙️ I love building tools that automate boring tasks
+
+---
+
+### 🌍 Find me online
+
+💼 Portfolio: (coming soon)  
+📧 Email: *(DM me first 😄)*  
+
+If you're into building cool things, automating life, or pushing code at ungodly hours —  
+**we’ll get along perfectly.**
+
+---
+
+> _"Build every idea — even if nobody understands it yet."_ 🚀
