@@ -44,20 +44,14 @@ I've built **10+ projects**, with a lot more sitting private 👀
 
 ✨ AI-powered job recommender
 🛒 Full MERN eCommerce app
+💬 Real-time chat web app
+🎨 Professional landing pages for client projects
 🎥 Video players (Web, QML)
 📦 Yalidine API automation tools
 💪 AI-generated training plans
 📊 Full-stack production tracking system (React, Node, PostgreSQL) — my master's final year project, replacing Excel-based tracking with real-time production/stock monitoring
 
 I ship fast, break things, fix them, and learn constantly.
-
----
-
-### 📚 Currently Working On
-
-- 🧠 AI-powered web assistant for Algerian small businesses
-- 💻 MERN + TensorFlow.js fitness coaching platform
-- 📦 Automation tools for delivery services (Yalidine, etc.)
 
 ---
 
